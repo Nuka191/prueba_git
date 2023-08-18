@@ -1,0 +1,26 @@
+body{
+background-color: #1d2127;
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
+padding: 0%;
+margin: 0%;
+
+
+}
+
+h1{
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+
+}
+
+.bar{
+
+    background-color: rgb(63, 63, 62);
+    padding: 10px;
+    display: flex;
+}
+.logo{
+    width: 75px;
+    height: 50px;
+}
